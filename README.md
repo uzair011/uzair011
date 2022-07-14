@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m currently working on simple smart contract projects.
+- ⌨️  My next challenge is to try & complete speedrunethereum...
 - 🌱 I’m currently learning Blockchain technologies.
 - 👯 I’m looking to collaborate on opensource projects. 
 - 💬 Ask me about jS, Solidity...
