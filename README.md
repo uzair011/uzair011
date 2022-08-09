@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on speedrunethereum challenge - 01 - Decentralized Staking App
+- 🔭 I’m currently working on speedrunethereum Challenge 3: 🎲 Dice Game
 - 🏆 [speedrunethereum](https://speedrunethereum.com/builders/0xe8CD1Ac6b04238dbFC711A6616d2F43a5d126754) - Profile
 - 👯 I’m looking to collaborate on opensource projects. 
 - 💬 Ask me about jS, Solidity...
