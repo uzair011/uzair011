@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on speedrunethereum Challenge 3: 🎲 Dice Game
+- 🔭 I’m currently working on speedrunethereum Challenge 4: ⚖️ Build a DEX
 - 🏆 [BuildlGuidl](https://buidlguidl.com/builders/0xe8CD1Ac6b04238dbFC711A6616d2F43a5d126754) - Profile
 - 👯 I’m looking to collaborate on opensource projects. 
 - 💬 Ask me about jS, Solidity...
